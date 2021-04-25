@@ -1,2 +1,2 @@
 #!/bin/bash
-mktemp -d holbertion.XXXXXXX
+mktemp -d holberton.XXXXXXX
